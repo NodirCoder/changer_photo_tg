@@ -1,3 +1,4 @@
+__copyright__ = '@nirocoder'
 from telethon.tl.functions.photos import UploadProfilePhotoRequest, DeletePhotosRequest
 from telethon.sync import TelegramClient
 from telethon import connection
